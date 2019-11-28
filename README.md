@@ -37,7 +37,7 @@ __SQLite__
 # Print screen 2
 ![](/img/prsc1.jpeg)
 # Print screen 3
-![](/img/prsc4.jpeg)
+![](/img/pscr4.jpeg)
 # Print screen 4
 ![](/img/prsc3.jpeg)
 
