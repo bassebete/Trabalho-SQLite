@@ -33,13 +33,13 @@ __SQLite__
 </ul>
   
 # Print screen 1
-![](/img/prsc1.jpeg)
-# Print screen 2
 ![](/img/prsc2.jpeg)
+# Print screen 2
+![](/img/prsc1.jpeg)
 # Print screen 3
-![](/img/prsc3.jpeg)
-# Print screen 4
 ![](/img/prsc4.jpeg)
+# Print screen 4
+![](/img/prsc3.jpeg)
 
 # Referencias
 [djamware](https://www.djamware.com/post/5caec76380aca754f7a9d1f1/react-native-tutorial-sqlite-offline-androidios-mobile-app#add-product)
