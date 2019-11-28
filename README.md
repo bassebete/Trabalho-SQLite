@@ -41,7 +41,7 @@ __SQLite__
 # Print screen 4
 ![](/img/prsc3.jpeg)
 
-# Referencias
+# Referências
 [djamware](https://www.djamware.com/post/5caec76380aca754f7a9d1f1/react-native-tutorial-sqlite-offline-androidios-mobile-app#add-product)
 
 [Fabrica de Codigos(youtube)](https://www.youtube.com/watch?v=L4SRBc9wyNs&t=407s)
